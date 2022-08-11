@@ -1,6 +1,7 @@
 ## Oiii, eu sou a Cynthia Bernardes! 👋
 
 😄 Descobrindo a programação 
+
 🌱 Estudando JavaScript 
 
 </div>
